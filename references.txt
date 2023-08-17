@@ -1,0 +1,12 @@
+Lecture slides for the algorithm's implementations
+
+
+https://stackoverflow.com/questions/19986662/rounding-a-number-in-python-but-keeping-ending-zeros - for formatting the output to have trailing zeroes
+https://www.geeksforgeeks.org/how-to-read-text-file-into-list-in-python/ - for reading input from file
+https://www.geeksforgeeks.org/python-program-convert-string-list/ - for splitting the string into list
+
+For linear programming solver part
+    - https://www.youtube.com/watch?v=7yZ5xxdkTb8 -- for intro and basics
+    - https://www.coin-or.org/PuLP/pulp.html       -- reffered to this documentation for functions like lpsum etc
+    - https://stackoverflow.com/questions/64215540/how-to-do-model-solve-not-show-any-message-in-python-using-pulp  -- for not showing msgs
+    - https://or.stackexchange.com/questions/742/how-do-i-access-the-value-of-a-variable-in-pulp  -- for accessing value of the lp variables
